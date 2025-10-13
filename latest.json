@@ -1,6 +1,26 @@
 {
-  "version": "0.0.0",
-  "notes": "Initial setup - will be updated automatically by GitHub Actions",
-  "pub_date": "2025-01-01T00:00:00Z",
-  "platforms": {}
+  "version": "0.1.1",
+  "notes": "## blbl v0.1.1
+
+Download the DMG file below to install blbl on macOS.
+
+### Installation
+1. Download 
+2. Open the DMG file
+3. Drag blbl.app to your Applications folder
+4. Launch blbl from Applications
+
+### Changes
+See [CHANGELOG.md](https://github.com/ajithrindiaofficial/blbl/blob/main/CHANGELOG.md) for details.",
+  "pub_date": "2025-10-13T14:51:43Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "Not Found",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "Not Found",
+      "url": ""
+    }
+  }
 }
