@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "notes": "## blbl v0.1.1
+  "version": "0.1.2",
+  "notes": "## blbl v0.1.2
 
 Download the DMG file below to install blbl on macOS.
 
@@ -12,15 +12,15 @@ Download the DMG file below to install blbl on macOS.
 
 ### Changes
 See [CHANGELOG.md](https://github.com/ajithrindiaofficial/blbl/blob/main/CHANGELOG.md) for details.",
-  "pub_date": "2025-10-13T15:01:40Z",
+  "pub_date": "2025-10-13T15:12:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjVPVjRXWElvSVNTeVlvVjUxY05aOVdJcU56cXN6VXMweXpDb3RVZWVBNU5OYWRMb25IRXpUN2pPdGxKamduRHYxcTAySmswV1M1ZjRsM3JWNXB3c2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzY3NjI3CWZpbGU6YmxibC5hcHAudGFyLmd6ClhrcCtpNUVXdktVdUdwY0t6dXZwMi9UeVRGUGFBdEk5cXRrV2NlQ3BiZnhCZkpJdUtrQ2tBbmZQQmtiZVp2bStWSGE3RitBVERIaUJkM2xoZ0FWNENRPT0K",
-      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.1.1/blbl.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjhCVXhvcDB0TXlTaWtGdThaaTV5ZUFnYkdoVXlyMjl5Q3pBMDdEZldKL3ZBVGcwclNUdUtsNFd0dWt4RWozVW9sWGlDVlovS1JicFR6SVozOUFLK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzY4MjcyCWZpbGU6YmxibC5hcHAudGFyLmd6CnAwN0lKU0hmd2pSYmRaWWk3b2s5RFBub2RkbS85ckx0Q3BQWkdtU2Znd0lvVU5Id1Y4aVJLQ2ZMdC9ra24yMWtYUFlsc05KQ3FOUml6QUU2TVgyL0JBPT0K",
+      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.1.2/blbl.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjVPVjRXWElvSVNTeVlvVjUxY05aOVdJcU56cXN6VXMweXpDb3RVZWVBNU5OYWRMb25IRXpUN2pPdGxKamduRHYxcTAySmswV1M1ZjRsM3JWNXB3c2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzY3NjI3CWZpbGU6YmxibC5hcHAudGFyLmd6ClhrcCtpNUVXdktVdUdwY0t6dXZwMi9UeVRGUGFBdEk5cXRrV2NlQ3BiZnhCZkpJdUtrQ2tBbmZQQmtiZVp2bStWSGE3RitBVERIaUJkM2xoZ0FWNENRPT0K",
-      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.1.1/blbl.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjhCVXhvcDB0TXlTaWtGdThaaTV5ZUFnYkdoVXlyMjl5Q3pBMDdEZldKL3ZBVGcwclNUdUtsNFd0dWt4RWozVW9sWGlDVlovS1JicFR6SVozOUFLK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzY4MjcyCWZpbGU6YmxibC5hcHAudGFyLmd6CnAwN0lKU0hmd2pSYmRaWWk3b2s5RFBub2RkbS85ckx0Q3BQWkdtU2Znd0lvVU5Id1Y4aVJLQ2ZMdC9ra24yMWtYUFlsc05KQ3FOUml6QUU2TVgyL0JBPT0K",
+      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.1.2/blbl.app.tar.gz"
     }
   }
 }
