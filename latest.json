@@ -1,17 +1,6 @@
 {
   "version": "0.1.2",
-  "notes": "## blbl v0.1.2
-
-Download the DMG file below to install blbl on macOS.
-
-### Installation
-1. Download 
-2. Open the DMG file
-3. Drag blbl.app to your Applications folder
-4. Launch blbl from Applications
-
-### Changes
-See [CHANGELOG.md](https://github.com/ajithrindiaofficial/blbl/blob/main/CHANGELOG.md) for details.",
+  "notes": "blbl v0.1.2 - OTA update test release",
   "pub_date": "2025-10-13T15:12:12Z",
   "platforms": {
     "darwin-aarch64": {
