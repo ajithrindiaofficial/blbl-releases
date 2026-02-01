@@ -1,15 +1,15 @@
 {
-  "version": "0.4.1",
-  "notes": "## blbl v0.4.1\n\nDownload the DMG file below to install blbl on macOS.\n\n### Installation\n1. Download the DMG file for your Mac\n2. Open the DMG file\n3. Drag blbl.app to your Applications folder\n4. Launch blbl from Applications\n\n### What's New\n\nSee CHANGELOG.md for details.\n\n---\n\nSee [CHANGELOG.md](https://github.com/ajithrindiaofficial/blbl/blob/main/CHANGELOG.md) for full release history.",
-  "pub_date": "2026-02-01T14:11:16Z",
+  "version": "0.4.2",
+  "notes": "## blbl v0.4.2\n\nDownload the DMG file below to install blbl on macOS.\n\n### Installation\n1. Download the DMG file for your Mac\n2. Open the DMG file\n3. Drag blbl.app to your Applications folder\n4. Launch blbl from Applications\n\n### What's New\n\nSee CHANGELOG.md for details.\n\n---\n\nSee [CHANGELOG.md](https://github.com/ajithrindiaofficial/blbl/blob/main/CHANGELOG.md) for full release history.",
+  "pub_date": "2026-02-01T16:49:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjlUakRjZVN4RkV1Q2tjU0ZEeXhyOG8vUzRqbUwzWHZrbGpNLzBFa2lkTStnVUh1bFpjd2RnU2JTeExYa05PWUFwQU1kbm8vNkRGZEdxYUE1Z0xySUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTU1MDc0CWZpbGU6QmlsbGFibGUuYXBwLnRhci5negpIMGg0VUQzakw0QXJDakNhcjFldzZaOVhETTdhL0pKNUhXM3hPY2diNTVGdkxoZDdYMXlQQVJjbDJJVXY0WEEvWEVsWHJRcXVGeGZ4OXVkT0FjbTRCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.4.1/Billable.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjdpYUJxL2d2S0RndjNpd0tZd0hLQ21xWFQrMnlmR2hmQTRmejZVbTVLS0R4ZVNSdTN4L09FcktHeDZDMWgvM1dHUWZWOStibGZPMC9NQnhnV1NzNGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTY0NTgxCWZpbGU6QmlsbGFibGUuYXBwLnRhci5negpMMExYK29TdUpmSkVaQlFVeFdDNEVuallaY25lOG9NSnc1aHlqY2tJRTlETGZGbHBkQUxrMFRmTG9VMitJSkFKY25HV0NSVkM1b2pxZmtMTmRGcUREZz09Cg==",
+      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.4.2/Billable.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjlUakRjZVN4RkV1Q2tjU0ZEeXhyOG8vUzRqbUwzWHZrbGpNLzBFa2lkTStnVUh1bFpjd2RnU2JTeExYa05PWUFwQU1kbm8vNkRGZEdxYUE1Z0xySUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTU1MDc0CWZpbGU6QmlsbGFibGUuYXBwLnRhci5negpIMGg0VUQzakw0QXJDakNhcjFldzZaOVhETTdhL0pKNUhXM3hPY2diNTVGdkxoZDdYMXlQQVJjbDJJVXY0WEEvWEVsWHJRcXVGeGZ4OXVkT0FjbTRCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.4.1/Billable.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSREo3SlNsZnRJYjdpYUJxL2d2S0RndjNpd0tZd0hLQ21xWFQrMnlmR2hmQTRmejZVbTVLS0R4ZVNSdTN4L09FcktHeDZDMWgvM1dHUWZWOStibGZPMC9NQnhnV1NzNGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTY0NTgxCWZpbGU6QmlsbGFibGUuYXBwLnRhci5negpMMExYK29TdUpmSkVaQlFVeFdDNEVuallaY25lOG9NSnc1aHlqY2tJRTlETGZGbHBkQUxrMFRmTG9VMitJSkFKY25HV0NSVkM1b2pxZmtMTmRGcUREZz09Cg==",
+      "url": "https://raw.githubusercontent.com/ajithrindiaofficial/blbl-releases/main/releases/0.4.2/Billable.app.tar.gz"
     }
   }
 }
